@@ -3,6 +3,6 @@
 সংখ্যা: 23, 56, 19.69, 101, 42, 89, 11.37
 
 */
-const integerNumbers = '23,56,101,42,89';
-const oddNumbers = '56,42';
-const evenNumbers = '23,101,89';
+integerNumbers === 23, 56, 101, 42, 89
+oddNumbers === 56, 42
+evenNumbers === 23, 101, 89
