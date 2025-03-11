@@ -5,4 +5,4 @@ let boysType = 'premik Boy';
 let convertedToNumber = parseInt(boysType);
 
 //  Text won't be converted a number
-console.log(convertedNumber); // Error Nan Not a Number
+console.log(convertedToNumber); // Error Nan Not a Number
